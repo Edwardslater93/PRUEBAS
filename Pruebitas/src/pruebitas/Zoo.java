@@ -16,8 +16,11 @@ public class Zoo {
         int f=0;
         if(patas instanceof Mamifero).where =1;
         vbcb
-    
+    System.out.println("hola mundo");
+    hoooola mundito
         yo creo que 
     
-    }*/
+    }
+
+*/
 }
